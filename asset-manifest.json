@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vk-mini-app-tamagochi.github.io/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-mini-app-tamagochi.github.io/static/js/main.e09ba86a.chunk.js",
+    "main.js.map": "/vk-mini-app-tamagochi.github.io/static/js/main.e09ba86a.chunk.js.map",
+    "runtime-main.js": "/vk-mini-app-tamagochi.github.io/static/js/runtime-main.a58e6615.js",
+    "runtime-main.js.map": "/vk-mini-app-tamagochi.github.io/static/js/runtime-main.a58e6615.js.map",
+    "static/css/2.cdee455b.chunk.css": "/vk-mini-app-tamagochi.github.io/static/css/2.cdee455b.chunk.css",
+    "static/js/2.6e055988.chunk.js": "/vk-mini-app-tamagochi.github.io/static/js/2.6e055988.chunk.js",
+    "static/js/2.6e055988.chunk.js.map": "/vk-mini-app-tamagochi.github.io/static/js/2.6e055988.chunk.js.map",
+    "index.html": "/vk-mini-app-tamagochi.github.io/index.html",
+    "precache-manifest.a84ccaaa943418412ba2c5764aaa6465.js": "/vk-mini-app-tamagochi.github.io/precache-manifest.a84ccaaa943418412ba2c5764aaa6465.js",
+    "service-worker.js": "/vk-mini-app-tamagochi.github.io/service-worker.js",
+    "static/css/2.cdee455b.chunk.css.map": "/vk-mini-app-tamagochi.github.io/static/css/2.cdee455b.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-mini-app-tamagochi.github.io/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.6e055988.chunk.js.LICENSE.txt": "/vk-mini-app-tamagochi.github.io/static/js/2.6e055988.chunk.js.LICENSE.txt",
+    "static/media/shit.png": "/vk-mini-app-tamagochi.github.io/static/media/shit.67be67bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a58e6615.js",
+    "static/css/2.cdee455b.chunk.css",
+    "static/js/2.6e055988.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.e09ba86a.chunk.js"
+  ]
+}
