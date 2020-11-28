@@ -2,7 +2,7 @@
   "name": "tamagochi",
   "version": "1.0.0",
   "description": "",
-  "main": "/src/index.js",
+  "main": "index.js",
   "homepage": "https://vk-mini-app-tamagochi.github.io/vk-mini-app-tamagochi.github.io/",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
